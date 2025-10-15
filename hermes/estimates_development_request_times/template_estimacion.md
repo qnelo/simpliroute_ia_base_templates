@@ -42,6 +42,10 @@ Si falta algo, debe preguntar de forma explícita y secuencial.
 
 ¿Qué condiciones de rendimiento, disponibilidad, seguridad, escalabilidad o monitoreo son esperadas?
 
+¿De que manera se autenticarán las llamadas? ¿token simpli o aipkey?
+
+¿si es mediante apikey, como se identificaran las cuentas del cliente?
+
 ¿Existen SLAs definidos?
 
 ### 1.6 Solución técnica (propuesta preliminar)
